@@ -1,0 +1,283 @@
+[
+    {
+        "name": "常用壳",
+        "list": [
+            {
+                "name": "OK影视电视版",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=OKTV32.apk",
+                "icon": "https://d.dayeapp.net/y.jpg",
+                "version": "通用版"
+            },
+            {
+                "name": "OK影视电视版",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=OKTV64.apk",
+                "icon": "https://d.dayeapp.net/y.jpg",
+                "version": "64位"
+            },
+            {
+                "name": "PeekPili",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=PeekPili.apk",
+                "icon": "https://ricolj.github.io/tp/PeekPili.png",
+                "version": "手机版"
+            },
+            {
+                "name": "IPTVPRO",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=IPTV32.apk",
+                "icon": "https://ricolj.github.io/tp/iptvpro.png",
+                "version": "32位"
+            },
+            {
+                "name": "IPTVPRO",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=IPTV64.apk",
+                "icon": "https://ricolj.github.io/tp/iptvpro.png",
+                "version": "64位"
+            },
+            {
+                "name": "酷九",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=k932.apk",
+                "icon": "https://ricolj.github.io/tp/k9.png",
+                "version": "32位"
+            },
+            {
+                "name": "酷九",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=k964.apk",
+                "icon": "https://ricolj.github.io/tp/k9.png",
+                "version": "64位"
+            }
+        ]
+    },
+    {
+        "name": "工具",
+        "list": [
+            {
+                "name": "甲壳虫ADB",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=jkc.apk",
+                "icon": "https://ricolj.github.io/tp/jkc.png",
+                "version": "工具"
+            },
+            {
+                "name": "网络优化大师",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=wlyh.apk",
+                "icon": "https://ricolj.github.io/tp/wlyh.png",
+                "version": "工具"
+            },
+            {
+                "name": "小白一键清理",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=xbql.apk",
+                "icon": "https://ricolj.github.io/tp/xbql.png",
+                "version": "工具"
+            },
+            {
+                "name": "小白文件管理",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=xbwj.apk",
+                "icon": "https://ricolj.github.io/tp/xbwj.png",
+                "version": "工具"
+            },
+            {
+                "name": "应用管理",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=yygj.apk",
+                "icon": "https://ricolj.github.io/tp/yygj.png",
+                "version": "工具"
+            }
+        ]
+    },
+
+
+    {
+        "name": "ZF影视专用工具",
+        "list": [
+            {
+                "name": "佳视通",
+                "url": "https://gh-proxy.org/https://github.com/zf2629/ZFAPP/raw/main/佳视通.apk",
+                "icon": "https://gh-proxy.org/https://raw.githubusercontent.com/zf2629/ZFAPP/main/apppng/apk.png",
+                "version": "工具"
+            },
+            {
+                "name": "开源阅读",
+                "url": "https://gh-proxy.org/https://github.com/zf2629/ZFAPP/raw/main/阅读_3.26.apk",
+                "icon": "https://gh-proxy.org/https://raw.githubusercontent.com/zf2629/ZFAPP/main/apppng/apk.png",
+                "version": "工具"
+            },
+            {
+                "name": "APK编辑器",
+                "url": "https://gh-proxy.org/https://github.com/zf2629/ZFAPP/raw/main/APK编辑器.apk",
+                "icon": "https://gh-proxy.org/https://raw.githubusercontent.com/zf2629/ZFAPP/main/apppng/apk.png",
+                "version": "工具"
+            },
+            {
+                "name": "HttpCanary",
+                "url": "https://gh-proxy.org/https://github.com/zf2629/ZFAPP/raw/main/HttpCanary.apk",
+                "icon": "https://gh-proxy.org/https://raw.githubusercontent.com/zf2629/ZFAPP/main/apppng/apk.png",
+                "version": "工具"
+            },
+            
+           
+            {
+                "name": "QuickEdit高级版",
+                "url": "https://gh-proxy.org/https://github.com/zf2629/ZFAPP/raw/main/QuickEdit高级版.apk",
+                "icon": "https://gh-proxy.org/https://raw.githubusercontent.com/zf2629/ZFAPP/main/apppng/apk.png",
+                "version": "工具"
+            },
+
+
+            
+
+
+      {
+                "name": "14751",
+                "url": "https://d.kstore.dev/download/14751/001.zip",
+                "icon": "https://gh-proxy.org/https://raw.githubusercontent.com/zf2629/ZFAPP/main/apppng/小白文件.png",
+                "version": "工具"
+            },
+
+            {
+                "name": "apk管理",
+                "url": "https://gh-proxy.org/https://github.com/zf2629/ZFAPP/raw/main/小白文件管理器.apk",
+                "icon": "https://gh-proxy.org/https://raw.githubusercontent.com/zf2629/ZFAPP/main/apppng/小白文件.png",
+                "version": "工具"
+            },
+            {
+                "name": "IDM下载",
+                "url": "https://gh-proxy.org/https://github.com/zf2629/ZFAPP/raw/main/IDM.apk",
+                "icon": "https://ricolj.github.io/tp/yygj.png",
+                "version": "工具"
+            }
+        ]
+    },
+
+
+
+
+    
+ {
+        "name": "影视客户端",
+        "list": [
+            {
+                "name": "OK影视32位手机版",
+                "url": "https://pan.ediart.ggff.net/webdav/OK客户端/mobile-armeabi_v7a.apk",
+                "icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+                "version": "py-v7a"
+            },
+            {
+                "name": "OK影视64位手机版",
+                "url": "https://pan.ediart.ggff.net/webdav/OK客户端/mobile-arm64_v8a.apk",
+                "icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+                "version": "py-v8a"
+            },
+            {
+                "name": "OK影视32位电视版",
+                "url": "https://pan.ediart.ggff.net/webdav/OK客户端/leanback-armeabi_v7a.apk",
+                "icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+                "version": "py-v7a"
+            },
+            {
+                "name": "OK影视64位电视版",
+                "url": "https://pan.ediart.ggff.net/webdav/OK客户端/leanback-arm64_v8a.apk",
+                "icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+                "version": "py-v8a"
+            },
+            {
+                "name": "OK PRO 64位手机版",
+                "url": "https://pan.ediart.ggff.net/webdav/OK客户端/OK影视Pro-手机版.apk",
+                "icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+                "version": "py-v8a"
+            },
+            {
+                "name": "OK PRO 64位模拟器版",
+                "url": "https://pan.ediart.ggff.net/webdav/OK客户端/OK影视Pro-手机版-模拟器.apk",
+                "icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+                "version": "py-v8a"
+            },
+            {
+                "name": "OK PRO 32位电视版",
+                "url": "https://pan.ediart.ggff.net/webdav/OK客户端/OK影视Pro-电视版-32位.apk",
+                "icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+                "version": "py-v7a"
+            },
+            {
+                "name": "OK PRO 64位电视版",
+                "url": "https://pan.ediart.ggff.net/webdav/OK客户端/OK影视Pro-电视版-64位.apk",
+                "icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+                "version": "py-v8a"
+            },
+            {
+                "name": "FM影视32位手机版",
+                "url": "https://pan.ediart.ggff.net/webdav/FM客户端/mobile-armeabi_v7a.apk",
+                "icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+                "version": "py-v7a"
+            },
+            {
+                "name": "FM影视64位手机版",
+                "url": "https://pan.ediart.ggff.net/webdav/FM客户端/mobile-arm64_v8a.apk",
+                "icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+                "version": "py-v8a"
+            },
+            {
+                "name": "FM影视32位电视版",
+                "url": "https://pan.ediart.ggff.net/webdav/FM客户端/leanback-armeabi_v7a.apk",
+                "icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+                "version": "py-v7a"
+            },
+            {
+                "name": "FM影视64位电视版",
+                "url": "https://pan.ediart.ggff.net/webdav/FM客户端/leanback-arm64_v8a.apk",
+                "icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+                "version": "py-v8a"
+            }
+        ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "本地包",
+        "list": [
+                {
+                "name": "ZF本地包",
+                "url": "https://gh-proxy.org/https://github.com/zf2629/zip/raw/main/zf123.zip",
+                "icon": "https://gh-proxy.org/https://github.com/zf2629/ZFAPP/raw/main/apppng/说明.png",
+                "copy": "",
+                "version": "最新本地包"
+            },
+
+            {
+                "name": "20260404",
+                "url": "http://xw.123234567.xyz:60255/jiduo/vox本地包.zip",
+                "icon": "http://xw.123234567.xyz:60255/jiduo/23.jpg",
+                "copy": "",
+                "version": "最新本地包"
+            },
+
+      
+
+            
+
+
+
+
+            {
+                "name": "说明",
+                "url": "https://gh-proxy.org/https://github.com/zf2629/ZFAPP/raw/main/说明.txt",
+                "icon": "https://gh-proxy.org/https://github.com/zf2629/ZFAPP/raw/main/apppng/说明.png",
+                "copy": "",
+                "version": "README"
+            }
+        ]
+    }
+]
